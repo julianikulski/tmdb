@@ -29,7 +29,7 @@ I will use RMSE (root mean squared error) to determine the performance of each m
 This projects includes one Jupyter notebook with all code required for analyzing the data and creating a supervised machine learning algorithm. The csv file train.csv contains 3,000 movies with 22 variables as the training data set for the algorithm. The csv file test.csv contains the test data with 4,398 movies and 22 variables.
 
 ## Results
-The main findings of the analysis have been published on [Medium(https://medium.com/@julia.nikulski/predicting-movie-revenue-with-adaboost-xgboost-and-lightgbm-262eadee6daa)]. A short overview of the results shall be given here:
+The main findings of the analysis have been published on [Medium](https://medium.com/@julia.nikulski/predicting-movie-revenue-with-adaboost-xgboost-and-lightgbm-262eadee6daa). A short overview of the results shall be given here:
 
 1. Which variables are particularly predictive of absolute revenue figures?
 
